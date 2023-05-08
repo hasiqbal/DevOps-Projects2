@@ -1,0 +1,50 @@
+<!doctype html>
+<html ng-app="myApp" ng-controller="myCtrl">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div>
+      <table>
+        <tr>
+          <td>BookTitle:</td>
+          <td><input type="text" ng-model="BookTitle"></td>
+        </tr>
+        <tr>
+          <td>ISBN:</td>
+          <td><input type="text" ng-model="ISBN"></td>
+        </tr>
+        <tr>
+          <td>AuthorName:</td>
+          <td><input type="text" ng-model="AuthorName"></td>
+        </tr>
+        <tr>
+          <td>NumberOfPages:</td>
+          <td><input type="number" ng-model="NumberOfPages"></td>
+        </tr>
+      </table>
+      <button ng-click="add_book()">Add</button>
+    </div>
+    <hr>
+    <div>
+      <table>
+        <tr>
+          <th>BookTitle</th>
+          <th>ISBN</th>
+          <th>AuthorName</th>
+          <th>NumberOfPages</th>
+
+        </tr>
+        <tr ng-repeat="book in books">
+          <td>{{book.BookTitle}}</td>
+          <td>{{book.ISBN}}</td>
+          <td>{{book.AuthorName}}</td>
+          <td>{{book.NumberOfPages}}</td>
+
+          <td><input type="button" value="Delete" data-ng-click="del_book(book)"></td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
