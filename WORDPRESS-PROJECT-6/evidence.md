@@ -1,7 +1,7 @@
 **In this project you will be tasked to prepare storage infrastructure on two Linux servers and implement a basic web solution using
 WordPress**.
 
-*CREATING WEB SERVER*
+*CREATED WEB SERVER AND ATTACHED VOLUMES*
 ![created and attached volumes to web server](https://github.com/hasiqbal/DevOps-Projects2/assets/85685078/e53f4707-e825-4725-95bf-87e5cc60d144)
 
 *CREATING DB SERVER*
