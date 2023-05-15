@@ -64,3 +64,16 @@ separate hardware – for Web Servers it look like a local file system from wher
 *Web page
 ![final final](https://github.com/hasiqbal/DevOps-Projects2/assets/85685078/c08e71f6-f74f-494c-9584-c9dcba3e0093)
 
+
+**LOAD BALANCER and Jenkins**
+![6009](https://user-images.githubusercontent.com/85270361/210151400-4d6381de-b901-429e-b66b-9b7c2f4b2fe5.PNG)
+![launched ubuntu](https://github.com/hasiqbal/DevOps-Projects2/assets/85685078/82268df7-3c3b-4473-ad23-fc25a3f6fe76)
+![connect via instance connect](https://github.com/hasiqbal/DevOps-Projects2/assets/85685078/5256d27d-e074-4973-884c-2d44ac742339)
+![step 3 - apache installed](https://github.com/hasiqbal/DevOps-Projects2/assets/85685078/6a2ad67d-a697-4657-bc8d-b941b528ae2b)
+![step 5 - create jenkins sg](https://github.com/hasiqbal/DevOps-Projects2/assets/85685078/7d75ec3c-8121-44e2-8d12-e6d398ef8fbb)
+![step 6 installed jenkins](https://github.com/hasiqbal/DevOps-Projects2/assets/85685078/e9e6176a-03fa-4dec-a37b-793c2db54f76)
+![step 7](https://github.com/hasiqbal/DevOps-Projects2/assets/85685078/175e4e48-3301-4d04-94df-7d7fbabd01e8)
+![jenkins ci cd setup](https://github.com/hasiqbal/DevOps-Projects2/assets/85685078/728434c9-ee8b-45c4-8ea8-c2d408b7e18b)
+
+
+
